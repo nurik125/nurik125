@@ -1,6 +1,6 @@
 <!-- Cosmic Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/2nY2FzF.gif" width="800" alt="cosmic banner">
+  <img src="https://i.imgur.com/HNliXsp.jpeg" width="800" alt="cosmic banner">
 </p>
 
 <h1 align="center">✨ Welcome, Traveler — I'm <b>Nurasik12</b> 🚀</h1>
@@ -61,7 +61,7 @@
 
 ### 🚀 Spotify Now Playing
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dslpomubtwadf5nmv0ugwek2s&cover_image=true&theme=novatorem&bar_color=fff&bar_color_cover=true)](https://open.spotify.com/user/dslpomubtwadf5nmv0ugwek2s)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dslpomubtwadf5nmv0ugwek2s?si=y_DWfg8uSXGM1S0yfldzZA&cover_image=true&theme=novatorem&bar_color=fff&bar_color_cover=true)](https://open.spotify.com/user/dslpomubtwadf5nmv0ugwek2s?si=y_DWfg8uSXGM1S0yfldzZA)
 
 ## 🌌 Featured Projects
 
