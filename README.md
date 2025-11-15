@@ -84,7 +84,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/5cXG3gX.gif" width="300">
+  <img src="https://i.imgur.com/7wsMvC8.gif" width="300">
   <br>
   <i>“The universe is expanding… and so am I.”</i>
 </p>
