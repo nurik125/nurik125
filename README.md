@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/2nY2FzF.gif" width="800" alt="cosmic banner">
 </p>
 
-<h1 align="center">✨ Welcome, Traveler — I'm <b>YOUR_NAME_HERE</b> 🚀</h1>
+<h1 align="center">✨ Welcome, Traveler — I'm <b>Nurasik12</b> 🚀</h1>
 
 <p align="center">
   <i>"Somewhere between the stars and lines of code, I build things..."</i>
@@ -47,9 +47,9 @@
 ### 🌟 Current Obsession (Pinned Track)
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=1-9xbSkf97A" target="_blank">
-    <img src="https://img.youtube.com/vi/1-9xbSkf97A/hqdefault.jpg" 
-         alt="Current favorite YouTube track" width="500">
+  <a href="https://www.youtube.com/watch?v=x1OwQGzelWs&list=RDx1OwQGzelWs&start_radio=1" target="_blank">
+    <img src="https://img.youtube.com/vi/x1OwQGzelWs/maxresdefault.jpg" 
+         alt="Current favorite YouTube track" width="fit-content">
   </a>
 </p>
 
