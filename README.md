@@ -63,8 +63,6 @@
 
 ![spotify-github-profile](/img/spotify-current.svg)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dslpomubtwadf5nmv0ugwek2s&cover_image=true&theme=novatorem&bar_color=fff&bar_color_cover=true)](https://open.spotify.com/user/dslpomubtwadf5nmv0ugwek2s)
-
 ## 🌌 Featured Projects
 
 | 🚀 Project | ⭐ Description |
