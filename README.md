@@ -1,6 +1,6 @@
 <!-- Cosmic Banner -->
 <p align="center">
-  <img src="./img/wallpaper.jpg" width="800" height="800" alt="anime banner">
+  <img src="./img/wallpaper.jpg" width="600" height="800" alt="anime banner">
 </p>
 
 <h1 align="left">Welcome, Traveler — I'm <b>Nurasik12</b></h1>
@@ -28,9 +28,9 @@
 
 ---
 
-## 🌌 Featured Projects
+## Featured Projects
 
-| 🚀 Project | ⭐ Description |
+| Project | Description |
 |-----------|---------------|
 | **AuaLine** | Eco-startup that turns smog into printer ink |
 | **Lipza – Lip-Reading App** | AI-powered lip-reading learning app for children with hearing impairments |
@@ -38,7 +38,7 @@
 
 ---
 
-## 🛸 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://github.com/nurik125"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
