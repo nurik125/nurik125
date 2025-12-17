@@ -1,6 +1,6 @@
 <!-- Cosmic Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/HNliXsp.jpeg" width="800" alt="cosmic banner">
+  <img src="./img/wallpaper.jpeg" width="800" alt="cosmic banner">
 </p>
 
 <h1 align="center">✨ Welcome, Traveler — I'm <b>Nurasik12</b> 🚀</h1>
