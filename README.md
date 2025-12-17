@@ -1,9 +1,9 @@
 <!-- Cosmic Banner -->
 <p align="center">
-  <img src="./img/wallpaper.jpeg" width="800" alt="cosmic banner">
+  <img src="./img/wallpaper.jpg" width="800" alt="anime banner">
 </p>
 
-<h1 align="center">✨ Welcome, Traveler — I'm <b>Nurasik12</b> 🚀</h1>
+<h1 align="left">Welcome, Traveler — I'm <b>Nurasik12</b></h1>
 
 <p align="center">
   <i>"Somewhere between the stars and lines of code, I build things..."</i>
@@ -11,57 +11,22 @@
 
 ---
 
-## 🌠 About Me
+## About Me
 
-- 🔭 I explore **AI, ML, mathematics, and engineering**
-- 🌌 Currently building projects that mix **creativity + algorithms**
-- 🛠 Tech stack: Python, JS/React, C++, ML/DL, CV, NLP  
-- 🌍 From Earth/KZ, dreaming universally  
-- 🚀 I want to build things that stay, inspire, and evolve.
+- I explore **AI, ML, mathematics, and engineering**
+- Currently working on my Leetcode that mix **DP + algorithms**
+- Tech stack: Python, JS/React, C++, ML/DL, CV, NLP, C++  
+- I want to build things that stay, inspire, and evolve.
 
 ---
 
-## 🌙 Tech Constellation
+## Tech Constellation
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,html,css,php,git,tensorflow,pytorch" />
 </p>
 
 ---
-
-## 🪐 My Cosmic Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nurik125&show_icons=true&theme=tokyonight&hide_border=true" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurik125&theme=tokyonight&hide_border=true" width="49%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nurik125&theme=nightowl&hide_border=true" />
-</p>
-
----
-
-## 🎧 Cosmic Vibes
-
-### 🌟 Current Obsession (Pinned Track)
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=x1OwQGzelWs&list=RDx1OwQGzelWs&start_radio=1" target="_blank">
-    <img src="https://img.youtube.com/vi/x1OwQGzelWs/maxresdefault.jpg" 
-         alt="Current favorite YouTube track" width="fit-content">
-  </a>
-</p>
-
-<p align="center">
-  <sub>▶️ Click the image to listen on YouTube</sub>
-</p>
-
----
-
-### 🚀 Spotify Now Playing
-
-![spotify-github-profile](/img/spotify-current.svg)
 
 ## 🌌 Featured Projects
 
@@ -78,7 +43,7 @@
 <p align="center">
   <a href="https://github.com/nurik125"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
   <a href="https://t.me/Nurasik12"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/nurassyl-serikov-a3625727a/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/nurasik12"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 ---
