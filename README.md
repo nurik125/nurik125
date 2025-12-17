@@ -1,6 +1,6 @@
 <!-- Cosmic Banner -->
 <p align="center">
-  <img src="./img/LiburBanner.jpg" width="600" height="800" alt="anime banner">
+  <img src="./img/LiburBanner.jpg" alt="anime banner">
 </p>
 
 <h1 align="left">Welcome, Traveler — I'm <b>Nurasik12</b></h1>
