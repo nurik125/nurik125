@@ -13,9 +13,8 @@
 
 ## About Me
 
-- I explore **AI, ML, mathematics, and engineering**
-- Currently working on my Leetcode that mix **DP + algorithms**
-- Tech stack: Python, JS/React, C++, ML/DL, CV, NLP, C++  
+- I explore **AI, ML, RL, mathematics, and engineering**
+- Currently working on my Leetcode and RL
 - I want to build things that stay, inspire, and evolve.
 
 ---
@@ -23,7 +22,7 @@
 ## Tech Constellation
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,html,css,php,git,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,html,css,php,git,tensorflow,pytorch" />
 </p>
 
 ---
