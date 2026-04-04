@@ -14,7 +14,6 @@
 ## About Me
 
 - I explore **AI, ML, RL, mathematics, and engineering**
-- Currently working on my Leetcode and RL
 - I want to build things that stay, inspire, and evolve.
 
 ---
