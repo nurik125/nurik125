@@ -22,7 +22,7 @@
 ## Tech Constellation
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,html,css,php,git,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,php,git,tensorflow,pytorch" />
 </p>
 
 ---
