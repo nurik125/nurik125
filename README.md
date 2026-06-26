@@ -3,10 +3,10 @@
   <img src="./img/LiburBanner.jpg" alt="anime banner">
 </p>
 
-<h1 align="left">Welcome, Traveler — I'm <b>Nurasik12</b></h1>
+<h1 align="left"> I'm <b>Nurasik12</b></h1>
 
 <p align="center">
-  <i>"Somewhere between the stars and lines of code, I build things..."</i>
+  <i>"Every man has two lives, and the second starts when he realizes he has just one." — Confucius</i>
 </p>
 
 ---
@@ -18,15 +18,15 @@
 
 ---
 
-## Tech Constellation
+## Tech
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,php,git,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,php,tensorflow,pytorch" />
 </p>
 
 ---
 
-## Connect With Me
+## Contacts
 
 <p align="center">
   <a href="https://github.com/nurik125"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
